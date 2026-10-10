@@ -1,5 +1,9 @@
 {
   "version": "v1.0",
-  "url": "https://github.com/vladpuhalia/OnixAssistant/releases/download/v10.2.1/OnixPro.exe",
-  "notes": "Стабильная сборка Onix Pro"
+  "url": "https://github.com/vladpuhalia/OnixAssistant/releases/download/v1.0/OnixPro.exe",
+  "notes": "Первая версия",
+
+  "voices_version": "1",
+  "voices_url": "https://github.com/vladpuhalia/OnixAssistant/releases/download/v1.0/jarvis_clips.zip",
+  "voices_notes": "Базовый пак голосов"
 }
