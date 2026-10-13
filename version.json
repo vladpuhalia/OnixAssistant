@@ -2,7 +2,7 @@
   "version": "v1.0",
   "url": "https://github.com/vladpuhalia/OnixAssistant/releases/download/v1.0/OnixPro.exe",
   "notes": "Pro",
-  "sha256": "",
+  "sha256": "1c07c95a3c382e6834754b00578e64dba7e3c10d9a2a6e2ef691028a68693afc",
 
   "free_version": "v1.1 Free",
   "free_url": "https://github.com/vladpuhalia/OnixAssistant/releases/download/v1.0_Free/OnixFree.exe",
@@ -12,7 +12,7 @@
   "voices_version": "1",
   "voices_url": "https://github.com/vladpuhalia/OnixAssistant/releases/download/v1.0/jarvis_clips.zip",
   "voices_notes": "Голоса Pro",
-  "voices_sha256": "",
+  "voices_sha256": "4ff4fc5b75124bdbbf4f110981e95a64c4968e49399c027bf7a26f48c41a6873",
 
   "free_voices_version": "2",
   "free_voices_url": "https://github.com/vladpuhalia/OnixAssistant/releases/download/v1.0_Free/jarvis_clips_free.zip",
