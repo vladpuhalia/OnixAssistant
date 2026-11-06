@@ -9,7 +9,7 @@
   "free_notes": "Обновление Free",
   "free_sha256": "2d319fa0f42471424e12a8e20a1aec5e3402ce8d7aaa65cda0ad12be06bc0952",
 
-  "voices_version": "1",
+  "voices_version": "2",
   "voices_url": "https://github.com/vladpuhalia/OnixAssistant/releases/download/v1.0/jarvis_clips.zip",
   "voices_notes": "Голоса Pro (все)",
   "voices_sha256": "4ff4fc5b75124bdbbf4f110981e95a64c4968e49399c027bf7a26f48c41a6873",
