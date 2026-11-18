@@ -1,11 +1,11 @@
 {
-  "version": "v2.0"
+  "version": "v2.0",
   "url": "https://github.com/vladpuhalia/OnixAssistant/releases/download/v2.0/OnixPro.exe",
   "notes": "Pro",
   "sha256": "1c07c95a3c382e6834754b00578e64dba7e3c10d9a2a6e2ef691028a68693afc",
 
-  "voices_version": "2"
+  "voices_version": "2",
   "voices_url": "https://github.com/vladpuhalia/OnixAssistant/releases/download/v2.0/jarvis_clips.zip",
   "voices_notes": "Голоса Pro (все)",
-  "voices_sha256": "4ff4fc5b75124bdbbf4f110981e95a64c4968e49399c027bf7a26f48c41a6873",
+  "voices_sha256": "4ff4fc5b75124bdbbf4f110981e95a64c4968e49399c027bf7a26f48c41a6873"
 }
